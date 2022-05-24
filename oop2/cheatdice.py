@@ -18,9 +18,17 @@ class Player:
         return self.dice
 
 # allows user to turn their last roll into a 6
-class Cheat_Swapper(Player):  # inheritance of Player
+#class Cheat_Swapper(Player):  # inheritance of Player
+#    def cheat(self):
+#        self.dice[-1] = 6
+
+# duckcheater: loads the 1st and last dice when the sum is less or equal than 8
+class duck_cheat(Player):
     def cheat(self):
-        self.dice[-1] = 6
+        if (self.dice[-1] + self.dice[0]) < 9:
+            i=0
+            for i in range(3):
+                self.dice.append(randint(3,6))
 
 # allows user to increase all rolls if they were less than a 6
 class Cheat_Loaded_Dice(Player): # inheritance of Player
