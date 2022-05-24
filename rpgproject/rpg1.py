@@ -113,8 +113,15 @@ while True:
     if move[1] in rooms[currentRoom]:
       #set the current room to the new room
        currentRoom = rooms[currentRoom][move[1]]
-       if currentRoom == 'Storage'and rooms['Hall']['north'] != None:
-         del rooms['Hall']['north']
+       try:
+           if currentRoom == 'Storage'and rooms['Hall']['north'] != None:
+             del rooms['Hall']['north']
+             print("you cannot comeback this way")
+       except:
+            if move[1] in rooms[currentRoom]:
+              #set the current room to the new room
+              currentRoom = rooms[currentRoom][move[1]]
+
     #there is no door (link) to the new room
     else:
         print('You can\'t go that way!')
@@ -131,13 +138,10 @@ while True:
       #add the item to their inventory
       inventory += [move[1]]
       del rooms[currentRoom]['item'][0]      
-      #**************JOSE: GET TWO ITEMS AT THE SAME TIME*******************
-    elif rooms[currentRoom] == 'Pantry':
-        inventory += [move[1]]
-        #display a helpful message
-        print(move[1], ' got them!')
-        #delete the item from the room
-      
+      #**************JOSE: HAVE TWO ITEMS OR MORE *******************
+      #Delete the elements when you took them
+      print(move[1], ' got them!')
+           
     #otherwise, if the item isn't there to get
     else:
       #tell them they can't get it
