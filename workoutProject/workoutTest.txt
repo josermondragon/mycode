@@ -1,7 +1,81 @@
 
-neck
+
+lower arms
 Exercise link:
-http://d205bpvrqc9yn1.cloudfront.net/1403.gif
-neck
+http://d205bpvrqc9yn1.cloudfront.net/0210.gif
+equipment: cable
+
+lower arms
 Exercise link:
-http://d205bpvrqc9yn1.cloudfront.net/0716.gif
+http://d205bpvrqc9yn1.cloudfront.net/0224.gif
+equipment: cable
+
+lower arms
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0247.gif
+equipment: cable
+
+lower arms
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/1437.gif
+equipment: dumbbell
+
+lower arms
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0079.gif
+equipment: barbell
+
+lower arms
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0082.gif
+equipment: barbell
+
+lower arms
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0104.gif
+equipment: barbell
+
+lower arms
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0126.gif
+equipment: barbell
+
+back
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/1314.gif
+equipment: stability ball
+
+back
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/3297.gif
+equipment: body weight
+
+back
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/1405.gif
+equipment: body weight
+
+back
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0970.gif
+equipment: band
+
+shoulders
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/1017.gif
+equipment: band
+
+shoulders
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0041.gif
+equipment: barbell
+
+shoulders
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0067.gif
+equipment: barbell
+
+shoulders
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0075.gif
+equipment: barbell

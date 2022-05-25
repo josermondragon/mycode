@@ -2,6 +2,7 @@
 import requests
 from pprint import pprint
 import json
+import random
 
 #0:"back"
 #1:"cardio"
@@ -27,26 +28,27 @@ headers = {
 }
 
 response = requests.request("GET",full_url, headers=headers)
-
+jsonObj = response.json()
 #workdata = response.json()
 #pprint(response.text)
 #workoute = response.json()[i]["gifUrl"]
 with open("workoutTest.txt","a") as work:
 #print the gift of the exercises for the muscle selected
-     i=0 
-     for x in response.json():
-        workoute = response.json()[i]["gifUrl"]
-        work.write('\n'+target + '\nExercise link:\n') 
-        rawjson = work.write(workoute)
-        i +=1
+     
+      a = random.randint(1,10)
+      i = a
+      for x in jsonObj:
+         if i == (a+4):
+           break
+         exercise = jsonObj[i]["gifUrl"]
+         equipment = jsonObj[i]["equipment"]
+         work.write('\n'+target + '\nExercise link:\n')
+         rawjson = work.write(exercise + "\nequipment: " + equipment)
+         work.write("\n")
+         i +=1 
 
-
-
-
-
-
-                                                                     
-                                                                     
+print(type(exercise))
+print(type(rawjson))
                                                                      
                                                                      
 
