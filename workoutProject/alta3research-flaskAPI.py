@@ -5,7 +5,7 @@ from flask import Flask
 from flask import request
 from flask import redirect
 from flask import jsonify
-
+from flask import render_template
 import json
 
 app= Flask(__name__)
@@ -19,7 +19,7 @@ bodypartdata= [{
        "target":"levator scapulae"
 }] 
 
-@app.route("/", methods=["GET","POST"])
+@app.route("/trainer", methods=["GET","POST"])
 def index():
     if request.method == 'POST':
         data = request.json
@@ -33,7 +33,9 @@ def index():
            target=data["target"]
            bodypartdata.append({"bodyPart":bodyPart,"equipment":equipment,"gifUrl":gifUrl,"id":id,"name":name,"target":target})
     # jsonify returns legal JSON
-    return jsonify(bodypartdata)
+    bodypart = jsonify(bodypartdata)
+    return bodypart
+    
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=2224)

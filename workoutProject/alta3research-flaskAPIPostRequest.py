@@ -3,7 +3,7 @@ import requests
 from pprint import pprint
 import json
 
-URL= "http://127.0.0.1:2224/"
+URL= "http://127.0.0.1:2224/trainer"
 
 new_bodyPart = {
                 "bodyPart":"neck",

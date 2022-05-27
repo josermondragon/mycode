@@ -699,3 +699,63 @@ waist
 Exercise link:
 http://d205bpvrqc9yn1.cloudfront.net/0013.gif
 equipment: assisted
+
+chest
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0036.gif
+equipment: barbell
+
+chest
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0040.gif
+equipment: barbell
+
+chest
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0045.gif
+equipment: barbell
+
+chest
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0047.gif
+equipment: barbell
+
+back
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/1432.gif
+equipment: leverage machine
+
+back
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/1314.gif
+equipment: stability ball
+
+back
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/3297.gif
+equipment: body weight
+
+back
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/1405.gif
+equipment: body weight
+
+waist
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/2355.gif
+equipment: body weight
+
+waist
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/2333.gif
+equipment: body weight
+
+waist
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/3204.gif
+equipment: body weight
+
+waist
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0011.gif
+equipment: assisted
