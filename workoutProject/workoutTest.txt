@@ -519,3 +519,183 @@ waist
 Exercise link:
 http://d205bpvrqc9yn1.cloudfront.net/0012.gif
 equipment: assisted
+
+upper legs
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0016.gif
+equipment: assisted
+
+upper legs
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/1713.gif
+equipment: assisted
+
+upper legs
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/1712.gif
+equipment: assisted
+
+upper legs
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/1473.gif
+equipment: body weight
+
+lower legs
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0999.gif
+equipment: band
+
+lower legs
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/1000.gif
+equipment: band
+
+lower legs
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/1369.gif
+equipment: band
+
+lower legs
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/1370.gif
+equipment: barbell
+
+waist
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0003.gif
+equipment: body weight
+
+waist
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0006.gif
+equipment: body weight
+
+waist
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/2355.gif
+equipment: body weight
+
+waist
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/2333.gif
+equipment: body weight
+
+chest
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0025.gif
+equipment: barbell
+
+chest
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0033.gif
+equipment: barbell
+
+chest
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/1255.gif
+equipment: barbell
+
+chest
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0036.gif
+equipment: barbell
+
+back
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/1314.gif
+equipment: stability ball
+
+back
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/3297.gif
+equipment: body weight
+
+back
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/1405.gif
+equipment: body weight
+
+back
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0970.gif
+equipment: band
+
+waist
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0010.gif
+equipment: assisted
+
+waist
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0012.gif
+equipment: assisted
+
+waist
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0013.gif
+equipment: assisted
+
+waist
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0014.gif
+equipment: medicine ball
+
+chest
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/1254.gif
+equipment: band
+
+chest
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0989.gif
+equipment: band
+
+chest
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0025.gif
+equipment: barbell
+
+chest
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0033.gif
+equipment: barbell
+
+back
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/3297.gif
+equipment: body weight
+
+back
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/1405.gif
+equipment: body weight
+
+back
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0970.gif
+equipment: band
+
+back
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0974.gif
+equipment: band
+
+waist
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0011.gif
+equipment: assisted
+
+waist
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0010.gif
+equipment: assisted
+
+waist
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0012.gif
+equipment: assisted
+
+waist
+Exercise link:
+http://d205bpvrqc9yn1.cloudfront.net/0013.gif
+equipment: assisted
